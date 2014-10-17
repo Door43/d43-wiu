@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wiu:home|Door43 (wiu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wiu|d43-wiu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wiu/archive/master.zip|d43-wiu.zip]]
+
+**Recent Changes**
+{{changes>ns = wiu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wiu|Ethnologue data]]
+
